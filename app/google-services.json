@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876436511166",
+    "firebase_url": "https://submarines-f5192-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "submarines-f5192",
+    "storage_bucket": "submarines-f5192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876436511166:android:37b1ea7dad4d78d90241ef",
+        "android_client_info": {
+          "package_name": "com.example.submarines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876436511166-lm0g9fhcb88med7nsbgnem6h3cu0ivfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMiKizfZySrR5ytuTH0ZEJel9qJTWvSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876436511166-lm0g9fhcb88med7nsbgnem6h3cu0ivfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
